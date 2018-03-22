@@ -13,6 +13,11 @@ using cv::Range;
 using cv::FileNodeIterator;
 using cv::ParallelLoopBody;
 
+/*
+ *    add test
+ *    line 1
+ *    line 2
+ * */
 
 #include "boost.h"
 #include "cascadeclassifier.h"
